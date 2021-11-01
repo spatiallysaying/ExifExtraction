@@ -16,7 +16,8 @@ from PyQt5.QtGui import *
 from PyQt5.QtXml import *
 
 
-sys.path.append('/usr/local/pkgs/qgis-3.18.3-py39h9ccb726_5/share/qgis/python/plugins')
+#sys.path.append('/usr/local/pkgs/qgis-3.18.3-py39h9ccb726_5/share/qgis/python/plugins')
+sys.path.append('/usr/local/pkgs/qgis-3.18.3-py39hcd9851b_6/share/qgis/python/plugins')
 
 import processing
 from processing.core.Processing import Processing   
